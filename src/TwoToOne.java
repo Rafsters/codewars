@@ -5,18 +5,8 @@ public class TwoToOne {
     }
 
     public static String longest(String s1, String s2){
-
-        char[] s1Array =  s1.toCharArray();
-        char[] s2Array =  s2.toCharArray();
-        char[] sArrayUnical = new char[s1Array.length + s2Array.length];
-
-        for (int i = 0; i < sArrayUnical.length; i++) {
-            if(i >= s1Array.length){
-                sArrayUnical[i] = s2Array[i - s1Array.length];
-            }else {
-                sArrayUnical[i] = s1Array[i];
-            }
-        }
+        String s = s1 + s2;
+        char[] sArrayUnical = s.toCharArray();
         Arrays.sort(sArrayUnical);
 
         StringBuilder text = new StringBuilder();
