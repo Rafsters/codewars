@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c96812c2-49e9-49dc-b33f-1453a43fb3fc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ShortestWord.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/XO.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ShortestWord.java" afterPath="$PROJECT_DIR$/src/ShortestWord.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,11 +26,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ShortestWord.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ShortestWord.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ShortestWord.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="48" lean-forward="false" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+              <folding>
+                <element signature="e#71#72#0" expanded="true" />
+                <element signature="e#126#127#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XO.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/XO.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <caret line="19" column="26" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="19" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -57,6 +71,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/TwoToOne.java" />
         <option value="$PROJECT_DIR$/src/ShortestWord.java" />
+        <option value="$PROJECT_DIR$/src/XO.java" />
       </list>
     </option>
   </component>
@@ -240,12 +255,12 @@
       <updated>1510233069788</updated>
       <workItem from="1510233075245" duration="2064000" />
       <workItem from="1510321984974" duration="605000" />
-      <workItem from="1510445180111" duration="1423000" />
+      <workItem from="1510445180111" duration="1871000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4092000" />
+    <option name="totallyTimeSpent" value="4540000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -317,8 +332,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ShortestWord.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="48" lean-forward="false" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+          <folding>
+            <element signature="e#71#72#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/XO.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <caret line="19" column="26" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="19" selection-end-column="26" />
           <folding />
         </state>
       </provider>

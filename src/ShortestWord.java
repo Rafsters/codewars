@@ -1,7 +1,6 @@
 public class ShortestWord {
     public static void main(String[] args) {
         findShortest("Addddd abc aa wuwuw www");
-
     }
 
     public static int findShortest(String s) {
